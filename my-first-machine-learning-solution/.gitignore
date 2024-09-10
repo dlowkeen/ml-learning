@@ -1,7 +1,6 @@
 # Ignore virtual environments
 venv/
 env/
-.venv/*
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints/*
